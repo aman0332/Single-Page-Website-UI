@@ -1,6 +1,6 @@
 # Single-Page-Website-UI
 
-Single Page Website UI
+Single Page Website UI (Full Page Scroll)
 
 -------------------Screenshots-------------------
 
